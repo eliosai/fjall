@@ -26,7 +26,7 @@ __internal_whitebox = []
 [dependencies]
 byteorder = { package = "byteorder-lite", version = "0.1.0" }
 byteview = "~0.10.1"
-lsm-tree = { git = "https://github.com/eliosai/lsm-tree", rev = "fa6a19944df5ea3de82d2af3c457d360425a8b32", default-features = false, features = [] }
+lsm-tree = { git = "https://github.com/eliosai/lsm-tree", rev = "823920cac912f3dfffff34e52d2cecf6b71a370e", default-features = false, features = [] }
 log = "0.4.27"
 tempfile = "3.20.0"
 dashmap = "6.1.0"
